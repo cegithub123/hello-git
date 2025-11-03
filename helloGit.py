@@ -10,3 +10,8 @@ print("linea2 hecha en rama")
 print("linea3 hecha en rama")
 print("linea4 hecha en rama")
 print("linea5 hecha en rama")
+
+
+print("lo nuevo 1 en rama")
+print("lo nuevo 2 en rama")
+print("lo nuevo 3 en rama")
