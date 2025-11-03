@@ -16,4 +16,4 @@ print("lo nuevo 1 en rama")
 print("lo nuevo 2 en rama4444444")
 print("lo nuevo 3 en rama")
 
-print("para stash")
+print("para stash ahora si bien hecho")
